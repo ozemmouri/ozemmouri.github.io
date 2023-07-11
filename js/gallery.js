@@ -1,3 +1,3 @@
 function activateGallery() {
-  alert("Hello from gallery");
+  alert("Hello from the gallery file!");
 }
